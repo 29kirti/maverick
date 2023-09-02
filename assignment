@@ -1,0 +1,14 @@
+question Write a program that takes 2 inputs from the user in variable a and b.Based on these inputs find the output of following expressions:
+1. Floor Division 2. a power b
+3. Find out whether two variables have equal value or not - if yes then print True if they are not equal then print False
+variable=input("enter two variable:")
+print(variable)
+23//44 ==0  #the two no taken as input are 23, 44
+23**44==824185149135487077883465900577270766354751717380230010246241
+a=23
+b=44
+if a==b:
+ print("True")
+else:
+ print("false")
+output=false
